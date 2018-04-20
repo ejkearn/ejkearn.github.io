@@ -1,9 +1,16 @@
 /* * {
     outline: 2px solid red;
 } */
+a {
+    color: inherit;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
 .blue-background{
-    /* background: linear-gradient(to right, rgb(202, 239, 252), lightblue); */
-background: #8Ea6B4;
+ 
+background: linear-gradient(to right, rgb(181, 196, 204), #8Ea6B4);
 color: #984A59;
 }
 
@@ -16,7 +23,7 @@ color: #984A59;
 }
 .background-gray{
     /* background: linear-gradient(to right, rgb(187, 187, 187), rgb(177, 177, 177)); */
-background: #984A59;
+background: linear-gradient(to right, rgb(155, 87, 101), #984A59);
 color:  #8Ea6B4;
 }
 .no-space{

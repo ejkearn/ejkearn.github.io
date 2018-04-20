@@ -53,3 +53,6 @@ color: #E7EFF3;
     width: 20%;
     height: auto;
 }
+.header-height{
+    min-height: 100vh;
+}

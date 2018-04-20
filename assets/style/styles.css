@@ -56,3 +56,6 @@ color: #E7EFF3;
 .header-height{
     min-height: 100vh;
 }
+.width-minimum{
+    min-width: 100%;
+}
